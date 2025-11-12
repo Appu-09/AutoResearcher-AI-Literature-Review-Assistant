@@ -24,6 +24,34 @@ It generates concise **summaries**, performs **cross-paper comparisons**, produc
 | **ReportLab** | PDF generation |
 | **NumPy / Pandas** | Data handling & preprocessing |
 
+🚀 **Features**
+
+- 📄 Automated PDF Extraction – Reads and parses research papers efficiently.
+
+- 🧠 Smart Summarization – Generates concise, domain-aware summaries using transformer models.
+
+- ⚖️ Comparative Analysis – Evaluates similarities and differences between multiple papers.
+
+- 💡 Future Research Suggestions – Proposes innovative and practical directions for further study.
+
+- 📊 Comprehensive PDF Report – Creates a professionally formatted, styled report.
+
+- ⚙️ Modular Architecture – Easily extensible for new NLP or AI capabilities.
+
+**🧩 Workflow Overview**
+
+- Upload or fetch research papers (PDF or text).
+
+- The system extracts the text and performs semantic preprocessing.
+
+- Summaries are generated using transformer-based models (e.g., BART, GPT).
+
+- Cross-paper comparison highlights patterns, contradictions, and research gaps.
+
+- AI suggests futuristic research ideas.
+  
+- A final styled report (AutoResearcher_Final_Report_Styled.pdf) is automatically generated.
+
 
 
 
